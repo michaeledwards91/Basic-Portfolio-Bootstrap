@@ -1,0 +1,56 @@
+body {
+	line-height: 1.7;
+	background-color: #f8f8f8;
+}
+
+footer {
+	background-color: grey;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    height: 70px;
+    padding: 2%;
+}
+
+h2 {
+	font-size: 26px;
+}
+
+h3, h4 {
+	color: #4FBFA5;
+}
+
+.navbar-header {
+	background-color: #4FBFA5;
+	padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.navbar-default {
+	background-color: white;
+}
+
+.aboutMePic {
+	float: left;
+	margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.contactIcon {
+	width: 30%;
+}
+
+.footerhr {
+	border-width: 5px;
+    border-color: #4FBFA5;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.contentBox {
+	background-color: white;
+	background-color: white;
+    padding: 3%;
+    border-width: 5px;
+}
